@@ -1,0 +1,26 @@
+{
+  "user": {
+    "id": "kU42Eq5qAwJP0zfTgU-uA",
+    "username": "mertguler"
+  },
+  "pet": [
+    {
+      "id": "Uy54J3ESgLYuP5TqDDn9q",
+      "createdAt": 1685147949183,
+      "name": "Raki",
+      "type": "dog"
+    },
+    {
+      "id": "TlXIp7XKSdtULxsaSjGHN",
+      "createdAt": 1685148005445,
+      "name": "Raki",
+      "type": "DOG"
+    },
+    {
+      "id": "ZX9J4J07aWY_mTzF-sHzM",
+      "createdAt": 1685148010048,
+      "name": "Raki",
+      "type": "DOG"
+    }
+  ]
+}
